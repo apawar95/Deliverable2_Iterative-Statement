@@ -25,7 +25,7 @@ namespace Deliverable2_Iterative_Statement
                 }
                } catch
             {
-                Console.WriteLine("error! ");
+                Console.WriteLine("There is an error! ");
             }
 
             }
